@@ -8,13 +8,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-<<<<<<< HEAD
     "e2e": "ng e2e"    ,
   "preinstall": "npm install -g http-server",
     "postinstall": "ng build && mv dist/* ."
-=======
-    "e2e": "ng e2e"    
->>>>>>> parent of 9609761... heroku
   },
   "private": true,
   "dependencies": {
@@ -28,15 +24,8 @@
     "@angular/router": "^4.0.0",
     "core-js": "^2.4.1",
     "rxjs": "^5.1.0",
-<<<<<<< HEAD
     "zone.js": "^0.8.4",
         "@angular/cli": "1.0.0",
-=======
-    "zone.js": "^0.8.4"
-  },
-  "devDependencies": {
-    "@angular/cli": "1.0.0",
->>>>>>> parent of 9609761... heroku
     "@angular/compiler-cli": "^4.0.0",
     "@types/jasmine": "2.5.38",
     "@types/node": "~6.0.60",
